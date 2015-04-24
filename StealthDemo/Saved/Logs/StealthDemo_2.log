@@ -1,0 +1,42 @@
+﻿Log file open, 04/23/15 23:50:44
+LogInit:Display: Running engine for game: StealthDemo
+LogInit: Version: 4.7.4-2497108+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Mar 31 2015 09:40:25
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line:  /Temp/Autosaves/Game/FirstPersonBP/Maps/UEDPCFirstPersonExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -featureleveles2 -faketouches 
+LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.04.24-06.50.44:476][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2015.04.24-06.50.44:517][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.04.24-06.50.44:535][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.04.24-06.50.44:549][  0]LogInit: Object subsystem initialized
+[2015.04.24-06.50.44:552][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.04.24-06.50.44:552][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Jimmy/StealthDemo/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.24-06.50.44:552][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.04.24-06.50.44:552][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Jimmy/StealthDemo/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.24-06.50.44:552][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.04.24-06.50.44:552][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Jimmy/StealthDemo/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.24-06.50.44:553][  0]LogInit: Selected Device Profile: [Windows]
+[2015.04.24-06.50.44:553][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.04.24-06.50.44:559][  0]LogInit: Computer: JPC
+[2015.04.24-06.50.44:559][  0]LogInit: User: Jimmy
+[2015.04.24-06.50.44:559][  0]LogInit: CPU Page size=4096, Cores=2
+[2015.04.24-06.50.44:559][  0]LogInit: High frequency timer resolution =2.728067 MHz
+[2015.04.24-06.50.44:559][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=131072.0GB
+[2015.04.24-06.50.44:560][  0]LogMemory: Platform Memory Stats for Windows
+[2015.04.24-06.50.44:560][  0]LogMemory: Process Physical Memory: 46.00 MB used, 46.00 MB peak
+[2015.04.24-06.50.44:560][  0]LogMemory: Process Virtual Memory: 22.43 MB used, 22.43 MB peak
+[2015.04.24-06.50.44:560][  0]LogMemory: Physical Memory: 5721.77 MB used, 8104.27 MB total
+[2015.04.24-06.50.44:560][  0]LogMemory: Virtual Memory: 292.96 MB used, 134217728.00 MB total
+[2015.04.24-06.50.44:594][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M   (Feature Level 11_0)
+[2015.04.24-06.50.44:594][  0]LogD3D11RHI: Adapter has 1972MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2015.04.24-06.50.44:604][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 4600 (Feature Level 11_0)
+[2015.04.24-06.50.44:604][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 0 output[s]
+[2015.04.24-06.50.44:605][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.04.24-06.50.44:605][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.04.24-06.50.44:605][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.04.24-06.50.44:613][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.04.24-06.50.44:627][  0]LogD3D11RHI: 
